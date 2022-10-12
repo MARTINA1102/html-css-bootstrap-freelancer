@@ -1,9 +1,10 @@
 .prima-parte{
     background-color:rgb(36, 59, 71);
-    color: white;
 
 }
-
+.nav-top{
+    height: 3rem;
+}
 .boot{
     background-color: rgb(19, 174, 140);
     color: white;
@@ -11,4 +12,15 @@
 .parte-fin{
     background-color: rgb(18, 30, 36);
     color: white;
+}
+.w-200{
+    width: 200px;
+}
+.h-200{
+    height: 200px;
+}
+.bl_card{
+    border-radius: 2rem;
+    border-radius: 10px;
+    overflow: hidden;
 }
