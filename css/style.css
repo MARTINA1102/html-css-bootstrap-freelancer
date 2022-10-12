@@ -68,4 +68,10 @@
 }
 .img_hover:hover{
     opacity: 0.5;
+    color: white;
+}
+
+.navbar-dark{
+    --bs-navbar-hover-color:rgb(19,174,140);
+    
 }
